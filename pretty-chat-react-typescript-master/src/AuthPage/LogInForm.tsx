@@ -64,7 +64,7 @@ const LogInForm = (props: LogInFormProps) => {
         <TextInput
           label="Email"
           name="email"
-          placeholder="adam@lamorre.co"
+          placeholder="1bataviashl@gmail.com"
           onChange={(e) => setEmail(e.target.value)}
         />
 
